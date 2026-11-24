@@ -1,0 +1,21 @@
+deliverables/DRAFT-agentic-ai-security-best-practices-guide.md
+  s_f9a71b10d838ea::t_30e15e82abfc12 173-175,179
+deliverables/README.md
+  s_f9a71b10d838ea::t_e8f9dbc18109da 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "37326ce057bf4567b8963b0157a4b7d99466c2ee",
+  "prompts": {},
+  "sessions": {
+    "s_f9a71b10d838ea": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "88353024-cfda-4f3c-b46e-1fc10337b2dc",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GeeksikhSecurity <gurvinder@sayvainc.com>"
+    }
+  }
+}
